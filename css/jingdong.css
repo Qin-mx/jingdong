@@ -486,6 +486,9 @@ dd .item{
 	background:#F7F7F7;
 	color:#B61D1D;
 }
+.banner-left-zi:hover span:nth-child(1){
+	color:#B1191A;
+}
 .banner-left-a{
     font-size:14px;
     height:31px;
@@ -507,7 +510,7 @@ dd .item{
 .banner-kong{
 	width:750px;
 	height:465px;
-	background:#ccc;
+	background:#F7F7F7;
 	position:absolute;
 	left:210px;
 	top:0;
